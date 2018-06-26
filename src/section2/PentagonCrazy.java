@@ -10,8 +10,11 @@ public class PentagonCrazy {
 
 	private void makePrettyThings() {
 		// 1. Create a new Robot
+		Robot wrenchjr=new Robot();
+
 
 		// 3. Put the robot's pen down
+		wrenchjr.penDown();
 
 		// 8. Make the robot go at maximum speed (10)
 
@@ -24,6 +27,7 @@ public class PentagonCrazy {
 		// 7. Use a for loop to repeat steps #2 to #11, 200 times. When this is done you should see a pentagon
 
 			// 2. Move the robot 200 pixels
+		wrenchjr.move(200);
 	
 			// 10. Change the previous line of code to make the robot move "i" pixels instead of 200 
 	

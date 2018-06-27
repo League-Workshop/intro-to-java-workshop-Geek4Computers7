@@ -10,6 +10,8 @@ public class FlamingNinjaStar {
 		int flameSize = 200;		//the length of the flaming arms
 		
 		// 1. Make a new robot, and set it's pen down.
+		Robot wrenchjr=new Robot();
+		wrenchjr.penDown();
 
 		// *14. Use the methods setX and setY to move the ninja star into the center of the screen
 		
@@ -20,6 +22,7 @@ public class FlamingNinjaStar {
 		// 13. Use a for loop to repeat all of the code below 25 times
 
 			// 2. Turn the robot 1/8 of a circle
+		
 		
 			// 3. Move the robot 64 pixels
 

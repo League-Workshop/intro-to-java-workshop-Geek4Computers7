@@ -31,7 +31,7 @@ public class MadlibsOfTheAmazon {
 		// back to the [place]. Good luck!
 		
 		// Make a pop-up for the final story. You can use \n to go to the next line
-		JOptionPane.showMessageDialog(null,"Piranhas are more " + adjective + "during the day, so cross the river at night.\n" + "piranahs are atracted to fresh" + liquid + "and will most likely take a bite out of your \n" + part + "if you" + verb + ". Whatever you do if you have an open wound, try to find another way to get back to the " + place + "/n" + "Good luck!S");
+		JOptionPane.showMessageDialog(null,"Piranhas are more " + adjective + " during the day, so cross the river at night.\n" + "piranahs are atracted to fresh" + liquid + "and will most likely take a bite out of your \n" + part + "if you" + verb + ". Whatever you do if you have an open wound, try to find another way to get back to the " + place + "/n" + "Good luck!S");
 
 	}
 }

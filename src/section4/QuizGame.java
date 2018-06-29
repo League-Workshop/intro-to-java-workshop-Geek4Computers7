@@ -43,6 +43,7 @@ public class QuizGame {
 		else {JOptionPane.showMessageDialog(null, "you have angered us -5");
 		score = score -5;
 		}
+		String should = JOptionPane
 		// 6.  After all the questions have been asked, print the user's score
 		 JOptionPane.showMessageDialog(null, "Oh no the illiminati has hacked my computer! I can't see my screen, you have to sht..dwn..your..self.I'm breaking up quick follow my instructions. you have to type a code to shut this down the code is complicated so listen carefully. ");
 		 JOptionPane.showMessageDialog(null, "The code is 1 2 3 4 but not in that order. The first and second number equal the third number, and the second number is half the fourth number");  
